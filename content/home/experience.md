@@ -10,7 +10,7 @@ experience:
     date_start: 2021-02-01
     date_end: ""
     
-  - title: Project Developer
+  - title: Project Develop
     company: YMCA Vietnam
     company_url: "https://ymcavn.org/"
     company_logo: ymca
