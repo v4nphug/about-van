@@ -5,7 +5,7 @@ experience:
   - title: Research Assistant
     company: MDRI
     company_url: "http://mdri.org.vn/"
-    company_logo: org-gc
+    company_logo: 
     location: Vietnam
     date_start: 2021-02-01
     date_end: ""
