@@ -22,35 +22,8 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-- certificate_url:'https://www.coursera.org'
-  date_end: ""
-  date_start: "2021-06-15"
-  description: ""
-  organization: Coursera
-  organization_url: 'https://www.coursera.org'
-  title: Programming for Everyone (Getting started with Python)
-  url: >-
-  https://www.coursera.org/account/accomplishments/certificate/VMQV7E7K4Q25
-- certificate_url: 'https://www.futurelearn.com/'
-  date_end: ""
-  date_start: "2021-06-01"
-  description: 
-  organization: FutureLearn
-  organization_url: 'https://www.futurelearn.com/'
-  title: Entrepreneurship: From Business Idea to Action
-  url: >-
-  https://www.futurelearn.com/certificates/7zoetpc
-- certificate_url: 'https://www.theforage.com/dashboard?ref=eXvcqvu5SaWs4rcP9'
-  date_end: ""
-  date_start: "2021-05-10"
-  description: ""
-  organization: Development Beyond Learning (DBL)
-  organization_url: 'https://www.theforage.com/dashboard?ref=eXvcqvu5SaWs4rcP9'
-  title: 'Virtual Experience Program Participant'
-  url: >-
-  https://insidesherpa.s3.amazonaws.com/completion-certificates/GradConnection/DBL/FyHsGMRDmAGmmueBf_GradConnection/DBL_eXvcqvu5SaWs4rcP9_completion_certificate.pdf
 
-design:
+
+#design:
   columns: '2' 
 ---
