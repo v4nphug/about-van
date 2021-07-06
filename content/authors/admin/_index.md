@@ -1,7 +1,7 @@
 ---
 title: Van Phung
 role: Commerce Student at University of New South Wales
-avatar_filename: 71252873_1161906160661877_5416519802585874432_n.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Business Analytics
