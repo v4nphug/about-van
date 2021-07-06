@@ -5,15 +5,15 @@ weight: 40
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
-    icon: r-project
+  - description: 
+    icon: tableau
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: Tableau
+  - description: 
+    icon: python
+    icon_pack: fab
+    name: python
+  - description: 
     icon: camera-retro
     icon_pack: fas
     name: Photography
