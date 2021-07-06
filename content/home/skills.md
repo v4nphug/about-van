@@ -7,7 +7,7 @@ subtitle: null
 feature:
   - description: 
     icon: tableau-software.svg
-    icon_pack: fab
+    icon_pack: custom
     name: Tableau
   - description: 
     icon: mySQL
