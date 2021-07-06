@@ -40,7 +40,7 @@ item:
   title: Entrepreneurship: From Business Idea to Action
   url: https://www.futurelearn.com/certificates/7zoetpc
 - certificate_url: https://www.theforage.com/dashboard?ref=eXvcqvu5SaWs4rcP9
-  date_end: "1"
+  date_end: ""
   date_start: "2021-05-10"
   description: ""
   organization: Development Beyond Learning (DBL)
