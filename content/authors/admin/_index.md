@@ -36,8 +36,6 @@ email: vanessaph1405@gmail.com
 superuser: true
 highlight_name: false
 ---
-Hi, my name is **Van**. I'm someone who is always searching for new adventures. At the moment, I am pursuing a career in Business Analytics at the University of New South Wales, one of the 8 capstone university in Australia. I enjoy writing blogs in my free time and that's one of the reasons why I'm creating this website :) I hope you'll find my contents useful!
-
-
+Hi, my name is **Van**. I'm someone who is always searching for new adventures so I'd say "adventurous" is a great adjective to describe me. At the moment, I am pursuing a career in Business Analytics at the University of New South Wales, one of the 8 capstone university in Australia. I enjoy writing blogs in my free time and that's one of the reasons why I'm creating this website :) I hope you'll find my contents useful!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
