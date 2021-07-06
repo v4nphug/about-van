@@ -6,7 +6,7 @@ title: Skills
 subtitle: null
 feature:
   - description: 
-    icon: tableau_logo
+    icon: tableau-software.svg
     icon_pack: fab
     name: Tableau
   - description: 
