@@ -5,7 +5,7 @@ experience:
   - title: Research Assistant
     company: MDRI
     company_url: "http://mdri.org.vn/"
-    company_logo: 
+    company_logo: mdri 
     location: Vietnam
     date_start: 2021-02-01
     date_end: ""
@@ -13,7 +13,7 @@ experience:
   - title: Project Developer
     company: YMCA Vietnam
     company_url: "https://ymcavn.org/"
-    company_logo: 
+    company_logo: ymca
     location: Vietnam
     date_start: 2021-06-01
     date_end: ""
