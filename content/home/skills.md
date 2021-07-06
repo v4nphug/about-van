@@ -6,7 +6,7 @@ title: Skills
 subtitle: null
 feature:
   - description: 
-    icon: tableau-software
+    icon: tableau_Logo
     icon_pack: custom
     name: Tableau
   - description: 
