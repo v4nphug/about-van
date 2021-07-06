@@ -17,7 +17,7 @@ experience:
     location: Vietnam
     date_start: 2021-06-01
     date_end: ""
-    description: Taught electronic engineering and researched semiconductor physics.
+    
 widget_id: Experience
 headless: true
 weight: 20
