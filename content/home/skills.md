@@ -10,9 +10,9 @@ feature:
     icon_pack: fab
     name: Tableau
   - description: 
-    icon: python
+    icon: mySQL
     icon_pack: fab
-    name: python
+    name: mySQL
   - description: 
     icon: camera-retro
     icon_pack: fas
