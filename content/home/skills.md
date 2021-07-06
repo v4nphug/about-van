@@ -16,6 +16,6 @@ feature:
   - description: 
     icon: Microsoft Office
     icon_pack: fab
-    name: Microsoft office
+    name: Microsoft Office
 widget_id: Skills
 ---
