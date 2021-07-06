@@ -25,28 +25,28 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-06-15"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  title: Programming for Everyone (Getting started with Python)
+  url: https://www.coursera.org/account/accomplishments/certificate/VMQV7E7K4Q25
+- certificate_url: https://www.futurelearn.com/
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2021-06-01"
+  description: 
+  organization: FutureLearn
+  organization_url: https://www.futurelearn.com/
+  title: Entrepreneurship: From Business Idea to Action
+  url: https://www.futurelearn.com/certificates/7zoetpc
+- certificate_url: https://www.theforage.com/dashboard?ref=eXvcqvu5SaWs4rcP9
+  date_end: "1"
+  date_start: "2021-05-10"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: Development Beyond Learning (DBL)
+  organization_url: https://www.theforage.com/dashboard?ref=eXvcqvu5SaWs4rcP9
+  title: 'Virtual Experience Program Participant'
+  url: https://insidesherpa.s3.amazonaws.com/completion-certificates/GradConnection/DBL/FyHsGMRDmAGmmueBf_GradConnection/DBL_eXvcqvu5SaWs4rcP9_completion_certificate.pdf
 
 design:
   columns: '2' 
