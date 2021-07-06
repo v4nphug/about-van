@@ -14,8 +14,8 @@ feature:
     icon_pack: fab
     name: mySQL
   - description: 
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    icon: Microsoft Office
+    icon_pack: fab
+    name: Microsoft office
 widget_id: Skills
 ---
