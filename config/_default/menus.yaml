@@ -22,6 +22,7 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -put this under the author section if want to include resume
 # - name: Resume
     #url: uploads/resume.pdf
     #weight: 70
